@@ -21,7 +21,22 @@ namespace Laba_3_Coop
             return students;
         }
         // Гриб С.
-
+        static void RunMenuSonya(Student[] studs)
+        {
+            int count = 0;
+            for (int i = 0; i < studs.Length; i++)
+            {
+                if (studs[i].informaticsMark == '5' && studs[i].mathematicsMark == '5' && studs[i].physicsMark == '5')
+                {
+                    count++;
+                    Console.WriteLine($"Прiзвище: {studs[i].surName}");
+                    Console.WriteLine($"iм'я: {studs[i].firstName}");
+                    Console.WriteLine($"По батьковi: {studs[i].patronymic}");
+                    Console.WriteLine($"Розмiр стипендiї: {studs[i].scholarship}");
+                }
+            }
+            Console.WriteLine($"Кiлькiсть студентiв, якi мають оцiнку 5 з усiх предметiв: {count}");
+        }
         // Поставничий Д.
         static void RunMenuDenys(Student[] students, string fileName)
         {
@@ -54,7 +69,8 @@ namespace Laba_3_Coop
                 {
                     case 1:
                         {
-
+                            Student[] studs = ReadData("Data.txt");
+                            RunMenuSonya(studs);
                             break;
                         }
                     case 2:
