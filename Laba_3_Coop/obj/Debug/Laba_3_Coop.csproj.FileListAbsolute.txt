@@ -1,0 +1,7 @@
+C:\Users\Xiaomi\Desktop\Laba_3_Git\Laba3\Laba_3_Coop\bin\Debug\Laba_3_Coop.exe.config
+C:\Users\Xiaomi\Desktop\Laba_3_Git\Laba3\Laba_3_Coop\bin\Debug\Laba_3_Coop.exe
+C:\Users\Xiaomi\Desktop\Laba_3_Git\Laba3\Laba_3_Coop\bin\Debug\Laba_3_Coop.pdb
+C:\Users\Xiaomi\Desktop\Laba_3_Git\Laba3\Laba_3_Coop\obj\Debug\Laba_3_Coop.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\Desktop\Laba_3_Git\Laba3\Laba_3_Coop\obj\Debug\Laba_3_Coop.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Desktop\Laba_3_Git\Laba3\Laba_3_Coop\obj\Debug\Laba_3_Coop.exe
+C:\Users\Xiaomi\Desktop\Laba_3_Git\Laba3\Laba_3_Coop\obj\Debug\Laba_3_Coop.pdb
