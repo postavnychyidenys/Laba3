@@ -22,7 +22,7 @@ namespace struct_lab_student
         {     
             for (int i = 0; i < students.Length; i++)
             {
-                if (students[i].mathematicsMark == 2 || students[i].physicsMark == 2 || students[i].informaticsMark == 2 ||
+                if (students[i].mathematicsMark == '2' || students[i].physicsMark == '2' || students[i].informaticsMark == '2' ||
                     students[i].mathematicsMark == '-' || students[i].physicsMark == '-' || students[i].informaticsMark == '-')
                 {
                     students[i].scholarship = 0;
